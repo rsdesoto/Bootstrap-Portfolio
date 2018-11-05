@@ -1,0 +1,40 @@
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #4aaaa5;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+p{
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+}
+
+.nubspix{
+    width: 30%;
+    padding: 20px;
+}
+
+#padded{
+    padding: 50px;
+} 
+
+.container{
+    margin-top: 100px;
+}
+/* 
+.navbar-length{
+
+} */
+/* 
+@media (min-width: 800px) {
+    .navbar-length{
+        max-width:1140px !important;
+    }
+} */
+
